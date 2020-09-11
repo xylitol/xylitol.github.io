@@ -1,6 +1,6 @@
-# cjf8899.github.io
+# xylitol.github.io
 
-> https://cjf8899.github.io/categories/
+> https://xylitol.github.io/categories/
 
 ## paper review
 
