@@ -13,7 +13,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 locale                   : "en-US"
 title                    : "xylitol.github.io"
 title_separator          : "-"
-subtitle                 : "Deep learning paper review"
+subtitle                 : ""
 name                     : &name "Yeosong Yun" # &name is a YAML anchor which can be *referenced later
 description              : "deep learning paper review upload"
 url                      : "https://xylitol.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -45,7 +45,7 @@ reCaptcha:
 atom_feed:
   path                   : # blank (default) uses feed.xml
 
-search                   : true # true, false (default)
+search                   : false # true, false (default)
 search_full_content      : true # true, false (default)
 search_provider          : algolia # lunr (default), algolia
 algolia:
@@ -57,7 +57,7 @@ algolia:
     - _posts/2017-11-28-post-exclude-search.md
 
 # SEO Related
-google_site_verification : "UQj93ERU9zgECodaaXgVpkjrFn9UrDMEzVamacSoQ8Y" # Replace this with your ID, or delete
+google_site_verification : ""#"UQj93ERU9zgECodaaXgVpkjrFn9UrDMEzVamacSoQ8Y" # Replace this with your ID, or delete
 bing_site_verification   :
 yandex_site_verification :
 naver_site_verification  :
