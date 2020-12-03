@@ -2,7 +2,7 @@
 title:  "ResNet paper review"
 last_modified_at: 2020-09-09 00:00:00 -0400
 categories: 
-  - Image Recognition
+  - Deep Learning paper review
 tags:
   - update
 toc: true
